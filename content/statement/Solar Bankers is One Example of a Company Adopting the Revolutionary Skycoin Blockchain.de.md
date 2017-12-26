@@ -14,7 +14,7 @@ categories = [
 
 Bessere Geschwindigkeit, bessere Sicherheit, besserer Schutz der Privatssphäre - Skycoin bietet all diese Vorteile durch ihre quelloffene Plattform. Die innovative Technologie die hinter Skycoin steckt ist für alle verfügbar. Heute merken immer mehr Firmen welchen Vorteil Skycoin hat und benutzen sie um ihr Unternehmen aufzubauen.
 
-Ein solch ein Beispiel ist [Solar Bankers](https://solarbankers.com/), eine revolutionäres neues Energieunternehmen. Solar Bankers benutzt die Macht der Blockchain um den Energiesektor zu dezentralisieren. Mit Solar Bankers können Benutzer Solarenergie zu Hause durch high-tech, patentierte Solargeräte selbst generieren. Sobald die Energie gesammelt ist können Benutzer sie direkt mit ihren Nachbarn per SunChain und der Währung SunCoin handeln.
+Ein solch ein Beispiel ist [Solar Bankers](https://solarbankers.com/), ein revolutionäres neues Energieunternehmen. Solar Bankers benutzt die Macht der Blockchain um den Energiesektor zu dezentralisieren. Mit Solar Bankers können Benutzer Solarenergie zu Hause durch high-tech, patentierte Solargeräte selbst generieren. Sobald die Energie gesammelt ist können Benutzer sie direkt mit ihren Nachbarn per SunChain und der Währung SunCoin handeln.
 
 Der Preis von einer SunCoin wird durch Angebot und Nachfrage bestimmt. Mit dezentralisiertem Peer-to-Peer Energiehandel gibt es keine Notwendigkeit mehr sich auf den Energieversorger verlassen zu müssen. Es ist ein einzigartiges Betriebsmodell das umweltschonend, profitabel und unabhängig machend ist -- und es ist alles auf der Plattform von Skycoin aufgebaut.
 
