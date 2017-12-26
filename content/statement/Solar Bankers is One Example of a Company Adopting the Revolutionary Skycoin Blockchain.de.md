@@ -1,5 +1,5 @@
 +++
-title = "Solar Bankers ist das erste Beispiel eines Unternehmens die die revolutionäre Skycoin Blockchain benutzt"
+title = "Solar Bankers ist das erste Beispiel eines Unternehmens das die revolutionäre Skycoin Blockchain benutzt"
 tags = [
     "Statement",
     "Skyledger",
